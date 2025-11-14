@@ -52,13 +52,14 @@ To grow as a developer and build applications that make an impact.
 
 ## 🎧 BeatBox – Python Playlist Player  
 > A lightweight offline music player built with Python — simple, fast, and clean.  
-🔗 **Repository:** [BeatBox](#)
+🔗 **Repository:** [beatbox.playlist](https://github.com/ITSROHITTECHH/beatbox.playlist)
 
 ---
 
 ## 🛠️ Fixit – Smart Home Service Platform  
 > Currently building a complete platform with clean UI, smart navigation, and AI-powered features.  
-🔗 **Repository:** [Fixit](#)
+🔗 **Repository:** [Fixit](https://github.com/ITSROHITTECHH/Fixit)
+
 
 ---
 
