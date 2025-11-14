@@ -9,6 +9,45 @@
 
 ---
 
+### 🔗 Connect With Me  
+<p>
+  <a href="https://github.com/ITSROHITTECHH">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rohit-kumar-srivastava-39a74b372?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="https://x.com/itsrohit_tech?t=8Pzh0VeKL4d_ZVCQQuyODQ&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+
+ <a href="mailto:srivastavarohitkumar067@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+I'm **Rohit Kumar Shrivastava**, a creative and curious developer exploring the world of **Python**, **Django**, and **modern web development**.  
+
+### 🔥 What I Do:
+- 💻 Build clean & functional web applications  
+- 🐍 Work with Python and Django  
+- 🗄️ Use PostgreSQL for backend databases  
+- 🎧 Created my first project: **BeatBox – Python Playlist Player**  
+- 🚀 Currently building **Fixit**, a complete service platform  
+- 🎨 Design UI/UX using Figma  
+- 🧠 Love solving bugs and learning every day  
+
+### 🎯 Goal:
+To grow as a developer and build applications that make an impact.
+
+
+---
+
 # 🚀 Featured Projects
 
 ## 🎧 BeatBox – Python Playlist Player  
@@ -20,6 +59,8 @@
 ## 🛠️ Fixit – Smart Home Service Platform  
 > Currently building a complete platform with clean UI, smart navigation, and AI-powered features.  
 🔗 **Repository:** [Fixit](#)
+
+---
 
 ## 🛠 Tech Stack  
 
