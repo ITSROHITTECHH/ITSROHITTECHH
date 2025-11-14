@@ -5,7 +5,7 @@
 <br/>
 
 ## ✨ Developer Quote  
-> **"Great code is written with logic, but perfect products are built with imagination."**
+> **"Where others see errors, I find experience."**
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-srivastava-39a74b372?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/itsrohit_tech?t=8Pzh0VeKL4d_ZVCQQuyODQ&s=09"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="srivastavarohitkumar067@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 <br/>
@@ -31,24 +31,24 @@
 ## 🛠 Tech Stack  
 ### Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python," height="45" />
 </p>
 
 ### Tools & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,nodejs,react" height="45" />
+  <img src="https://skillicons.dev/icons?i=django,figma,postgresql,react,vscode,git,github," height="45" />
 </p>
 
 <br/>
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ITSROHITTECHH&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITSROHITTECHH&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITSROHITTECHH&theme=radical" height="165" />
 </p>
 
 <br/>
