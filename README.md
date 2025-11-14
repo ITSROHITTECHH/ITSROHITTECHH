@@ -66,7 +66,7 @@ To grow as a developer and build applications that make an impact.
 
 ### Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python," height="45" />
 </p>
 
 ---
@@ -98,26 +98,6 @@ To grow as a developer and build applications that make an impact.
 
 ---
 
-### 🔗 Connect With Me  
-<p>
-  <a href="https://github.com/ITSROHITTECHH">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rohit-kumar-srivastava-39a74b372?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-
-  <a href="https://x.com/itsrohit_tech?t=8Pzh0VeKL4d_ZVCQQuyODQ&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-
- <a href="mailto:srivastavarohitkumar067@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
-
----
 
 # 👀 Visitor Counter  
 <p align="left">
