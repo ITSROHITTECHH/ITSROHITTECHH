@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hey 👋, I'm Rohit Kumar Shrivastava</h1>
 
 <h3 align="center">Creative Developer & Designer | BCA Student | Crafting Ideas Into Reality</h3>
 
