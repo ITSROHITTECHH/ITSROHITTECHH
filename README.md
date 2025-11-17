@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rohit-kumar-srivastava-39a74b372?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/rohit-kumar-srivastava-39a74b372?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
