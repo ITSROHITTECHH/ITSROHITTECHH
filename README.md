@@ -87,8 +87,9 @@ To grow as a developer and build applications that make an impact.
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ITSROHITTECHH&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ITSROHITTECHH&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
+
 
 ---
 
