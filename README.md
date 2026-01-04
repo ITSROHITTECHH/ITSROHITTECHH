@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0066ff&height=200&section=header&text=ITSROHITTECHH&fontSize=55&fontColor=ffffff" />
 </p>
 
-# 👋 Hi, I'm Rohit Kumar Shrivatava 
+# 👋 Hi, I'm Rohit Kumar Srivatava 
 
 > **"Turning errors into experience, and ideas into reality."**
 
