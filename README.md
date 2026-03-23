@@ -60,6 +60,9 @@ To grow as a developer and build applications that make an impact.
 > Currently building a complete platform with clean UI, smart navigation, and AI-powered features.  
 🔗 **Repository:** [Fixit](https://github.com/ITSROHITTECHH/Fixit)
 
+---
+## iQuiet - Your AI Companion 
+> Not just a chatbot—iQuiet is a calm space where your thoughts find a voice, built to listen and understand.
 
 ---
 
