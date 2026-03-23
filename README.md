@@ -61,9 +61,11 @@ To grow as a developer and build applications that make an impact.
 🔗 **Repository:** [Fixit](https://github.com/ITSROHITTECHH/Fixit)
 
 ---
+
 ## iQuiet - Your AI Companion 
 > Not just a chatbot—iQuiet is a calm space where your thoughts find a voice, built to listen and understand.
-🔗 **Repository:** [Fixit](https://github.com/ITSROHITTECHH/iQuiet)
+🔗 **Repository:** [iquiet](https://github.com/ITSROHITTECHH/iquiet)
+
 ---
 
 ## 🛠 Tech Stack  
